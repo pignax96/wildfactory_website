@@ -1,4 +1,3 @@
-//codice javascript per CountDown 
 var countDownDate = new Date("Apr 4, 2018 00:00:00").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
